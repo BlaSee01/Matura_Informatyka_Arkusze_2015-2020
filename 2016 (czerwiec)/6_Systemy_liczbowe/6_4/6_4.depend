@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615999969 source:d:\matura\2016 (czerwiec)\6_systemy_liczbowe\6_4\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+

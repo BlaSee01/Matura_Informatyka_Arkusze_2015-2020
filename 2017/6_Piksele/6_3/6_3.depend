@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619003784 source:d:\matura\2017\6_piksele\6_3\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

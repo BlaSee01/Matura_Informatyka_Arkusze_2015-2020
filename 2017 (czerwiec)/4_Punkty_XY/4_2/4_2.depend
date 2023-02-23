@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616585876 source:d:\matura\2017 (czerwiec)\4_punkty_xy\4_2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
