@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616771692 source:d:\matura\2019 (czerwiec)\4_3\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
