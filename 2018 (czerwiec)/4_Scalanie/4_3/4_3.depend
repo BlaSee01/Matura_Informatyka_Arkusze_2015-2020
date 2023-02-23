@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616413634 source:d:\matura\2018 (czerwiec)\4_scalanie\4_3\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+
