@@ -1,4 +1,4 @@
-# Matura Informatyka 2015 - 2020 [POPRAWNIE WYKONANE]
+# Matura Informatyka Rozszerzona 2015 - 2020 [POPRAWNIE WYKONANE ARKUSZE]
 
 Secondary School Leaving Exam (extended Computer Science), years 2015 - 2020 [DONE]
 
