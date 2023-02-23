@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1617878436 source:d:\matura\2020 próbna (kwiecieñ)\4_luki_w_ciagu\4_1\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<conio.h>
+
